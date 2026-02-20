@@ -1,0 +1,10 @@
+{
+  "name": "tb-screening-complete",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:proxy": "cd proxy-server && npm install",
+    "start:proxy": "cd proxy-server && npm start",
+    "dev:proxy": "cd proxy-server && npm run dev"
+  }
+}
